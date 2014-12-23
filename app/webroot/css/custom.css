@@ -298,3 +298,13 @@ form div.submit {
     display: inline !important;
     float: none;
 }
+.shortcuts .shortcut {
+    width: 150px;
+}
+.shortcuts .shortcut .shortcut-icon {
+    font-size: 40px;
+    margin:0;
+}
+.shortcuts .shortcut-label {
+    font: 16px/1.7em 'Open Sans';
+}
